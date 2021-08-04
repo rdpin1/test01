@@ -52,7 +52,6 @@ img {
 .home-content {
     text-align: center;
     margin-top: 10px;
-    background-image: url(assets/images/main-photo.JPG);
     width: 100%;
 }
 
@@ -94,12 +93,11 @@ img {
     background-position: center top;
     background-repeat: no-repeat;
     min-height: 100vh;
-    background-image: url(/assets/images/backphoto.jpg);
+
     background-position: bottom;
 }
 
 #home {
-    background-image: url(assets/images/main-photo.JPG);
     min-height: 100vh;
 }
 
@@ -172,7 +170,7 @@ h4 {
 
 
 #menu {
-    background-image: url(assets/images/backphoto.jpg);
+
     min-height: 100vh;
     background-position:bottom;
 }
